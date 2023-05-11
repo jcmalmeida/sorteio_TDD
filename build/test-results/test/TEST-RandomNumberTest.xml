@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RandomNumberTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-11T01:56:55" hostname="MJ" time="0.014">
+  <properties/>
+  <testcase name="GIVEN random number 50 WHEN check guessed number 25 THEN guess feedback equals BIGGER()" classname="RandomNumberTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
